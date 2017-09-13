@@ -4,6 +4,7 @@ Also need plastic as replacment for coffee cup lids as well
 To Do:
   -Gather sources of current breakdown mechanisms
   -Current developments
+        
         Uses petroluem plastic
         -PVC/Starch blends (PVC not degradable)
         -Cellouse nanocrsytal/plastic blend (Plastic part not degradable)
